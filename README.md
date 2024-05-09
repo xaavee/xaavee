@@ -2,7 +2,7 @@
 
 **`Business Owner / Shopify (ecommerce) Developer`**
 
-I'm a Fonder of multiple agencies and a clothing brand, full-stack $${\color{lightgreen}Shopify}$$ and web developer putting all of my efforts into making the digital ecommerce space better. All my projects are built from the ground up, from the UI/UX design all the way to solving all of ecommerce and website problems with code. All my business ventures are built the same way, from the idea, all the way to running and scaling the companies.
+I'm a Fonder of multiple agencies and a clothing brand, full-stack Shopify and web developer putting all of my efforts into making the digital ecommerce space better. All my projects are built from the ground up, from the UI/UX design all the way to solving all of ecommerce and website problems with code. All my business ventures are built the same way, from the idea, all the way to running and scaling the companies.
 
    <p align="left">
       <a href="https://instagram.com/">
